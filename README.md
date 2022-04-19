@@ -2,6 +2,8 @@
 
 Based on [baseview_test_vst2](https://github.com/greatest-ape/baseview_test_vst2)
 
+Just taking basic that DGriffin91 laid down and turning it up a notch.
+
 Barebones [baseview](https://github.com/RustAudio/baseview)/[egui_baseview](https://github.com/BillyDM/egui-baseview)
 [vst2](https://github.com/RustAudio/vst-rs) plugin.
 
